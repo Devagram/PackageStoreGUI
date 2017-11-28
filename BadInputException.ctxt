@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BadInputException
+comment0.text=\n\ Custom\ Exception\ type,\ used\ to\ report\ bad\ input\ from\ user.\n\ @author\ Junye\ Wen\n
+comment1.params=message
+comment1.target=BadInputException(java.lang.String)
+comment1.text=\n\ Constructor,\ allows\ custom\ message\ assignment\ for\ thrown\ exception.\n\ @param\ message\ custom\ message\ assignment\n
+numComments=2
